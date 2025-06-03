@@ -1,0 +1,2 @@
+
+print (aluno ["curso"])
